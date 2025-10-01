@@ -1,5 +1,5 @@
 GREEN = (93, 217, 37)
-DARK_GREEN = (0, 150, 0)
+DARK_GREEN = (100, 232, 31)
 BLACK = (0, 0, 0)
 WHITE = (255, 255, 255)
 BLACK = (0, 0, 0)
@@ -13,4 +13,4 @@ BAR_SPACING = 1
 
 BAR_BOTTOM_PADDING = 10 
 
-algorithm_ID = [1, 2]
+algorithm_ID = [1, 2, 3, 4]

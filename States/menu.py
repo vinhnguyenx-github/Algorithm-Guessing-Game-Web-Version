@@ -5,7 +5,7 @@ from config import *
 
 
 pygame.font.init()
-font_large = pygame.font.SysFont("consolas", 60)
+font_large = pygame.font.SysFont("couriernew", 60, bold=True)
 
 class Menu:
     def __init__(self, width, height):
